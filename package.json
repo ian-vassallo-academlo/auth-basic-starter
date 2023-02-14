@@ -1,5 +1,5 @@
 {
-  "name": "academlo-proximamente-api",
+  "name": "@academlo-proximamente-api",
   "version": "1.0.0",
   "description": "",
   "bin": "./bin/cli.js",
