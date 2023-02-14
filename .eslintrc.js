@@ -11,6 +11,7 @@ module.exports = {
     'ecmaVersion': 'latest'
   },
   'ignorePatterns': [
+    '/bin/cli.js',
     '/database/config/config.js',
     '/database/models/',
     'package.json',
