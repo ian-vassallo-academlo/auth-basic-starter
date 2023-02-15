@@ -2,7 +2,7 @@ const bcrypt = require('bcrypt')
 const {CustomError} = require('../utils/helpers')
 
 const hashPassword = (plainPassword) => {
-  return bcrypt.hashSync(plainPassword, 10)
+  return bcrypt.hashSync(plainPassword, 8)
 }
 
 const comparePassword = (plainPassword, hashedPassword) => {
