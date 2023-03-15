@@ -1,6 +1,6 @@
 {
   "name": "academlo-auth-api-starter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "bin": "./bin/cli.js",
   "main": "index.js",
